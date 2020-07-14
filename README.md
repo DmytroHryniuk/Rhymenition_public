@@ -1,8 +1,6 @@
 # Rhymenition
 
-<p align="center">
-  <img src="/screens/rhymenition_icons_banner.png" width="700">
-</p>
+![icon_featured_graphic](/screens/rhymenition_icons_banner.png)
 
 ****
 #### Table of contents:
